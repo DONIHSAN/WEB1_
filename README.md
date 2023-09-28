@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 2 } <img src=https://static.vecteezy.com/system/resources/previews/020/816/512/original/html-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg width="110px" >
+# Tugas Praktikum { Pertemuan ke 2 } <img src=https://w0.peakpx.com/wallpaper/214/158/HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg width="110px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -45,7 +45,7 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
-## Jawab 
+## Jawab (soon)
 
 
 
