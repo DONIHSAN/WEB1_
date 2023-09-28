@@ -1,9 +1,18 @@
-# Tugas Praktikum { Pertemuan ke 1 } <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
+# Tugas Praktikum { Pertemuan ke 2 } <img src=https://course-net.com/blog/wp-content/uploads/2022/11/html-1.png width="130px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
 |Muhammad Ikhsan Fakhrudin|312210019|TI.22.A.2|Pemrograman WEB|
+
+
+
+
+
+
+
+
+
 
 ## Bagian AKHIR
 
