@@ -51,17 +51,39 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ![](screenshot/ss6.png)
 
-Lalu ketika saya menambahkan ``<i>``, pada paragraf kedua maka ....
+Lalu ketika saya menambahkan ``<i>``, pada paragraf kedua maka seluruh teks yang bermula normal akan berubah menjadi teks yg bergaris miring semua atau ``italic``, seperti gambar di bawah.
 
 ![](screenshot/ss7.png)
 
-2. Tag ``<br>`` berfungsi untuk melompati satu line, cocok untuk memulai paragraf baru, sedangkan tag ``<p>`` seperti menekan tombol enter di software document editor.
+2. Tag ``<br>`` berfungsi untuk melompati satu line, cocok untuk memulai paragraf baru, sedangkan tag ``<p>`` seperti menekan tombol enter di software document editor atau seperti di ``Ms Word.``
 
 ![](screenshot/ss8.png)
 
-3. 
+3. ``Atribut Alt``
 
+- Digunakan untuk memberikan teks alternatif atau deskripsi singkat tentang gambar. Ini adalah teks yang akan ditampilkan jika gambar tidak dapat dimuat atau ketika pengguna menggunakan peramban teks atau pembaca layar.
 
+- **Tujuan Utama :** Memberikan informasi penting tentang gambar kepada pengguna yang memiliki keterbatasan penglihatan atau ketika gambar tidak dapat ditampilkan.
+
+``Atribut Title``
+
+- Digunakan untuk memberikan informasi tambahan tentang gambar saat pengguna mengarahkan kursor mouse ke gambar tersebut. Ini muncul dalam tooltip saat pengguna menggerakkan kursor mouse di atas gambar.
+
+- **Tujuan Utama :** Memberikan keterangan atau informasi tambahan opsional yang dapat berguna, tetapi tidak harus diperlukan untuk memahami gambar.
+
+![](screenshot/ss11.png)
+
+4. Menurut saya lebih baik satu atribut saja agar aspek ratio gambar asli terjaga. Kecuali pada kondisi tertentu (seperti gambar yang sudah memiliki ukuran yg pas/proporsional) cukup mengatur ``Width`` nya saja.
+
+![](screenshot/ss10.png)
+
+5. ``Nilai _blank`` untuk membuka link di tab baru
+
+    ``Nilai _self`` untuk membuka link/halaman ditab saat ini
+
+    ``Nilai _top`` untuk membuka link/halaman dan membatalkan semua frame
+
+    ``Nilai _parent`` untuk membuka link/halaman pada parent frame
 
 
 
