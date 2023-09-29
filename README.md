@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 2 } <img src=https://w0.peakpx.com/wallpaper/214/158/HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg width="110px" >
+# Tugas Praktikum { Pertemuan ke 2 } <img src=https://w0.peakpx.com/wallpaper/214/158/HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg width="120px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -45,7 +45,21 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
-## Jawab (soon)
+## Jawab 
+
+1. Saya akan melakukan perubahan pada tag html, gambar dibawah merupakan syntax HTML sebelum saya rubah
+
+![](screenshot/ss6.png)
+
+Lalu ketika saya menambahkan ``<i>``, pada paragraf kedua maka ....
+
+![](screenshot/ss7.png)
+
+2. Tag ``<br>`` berfungsi untuk melompati satu line, cocok untuk memulai paragraf baru, sedangkan tag ``<p>`` seperti menekan tombol enter di software document editor.
+
+![](screenshot/ss8.png)
+
+3. 
 
 
 
